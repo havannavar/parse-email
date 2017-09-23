@@ -3,9 +3,6 @@ Created on 23 Aug 2017
 
 @author: sats
 '''
-'''
-a common method for loading a File 
-'''
 
 from flask import Flask
 import os, json
